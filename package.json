@@ -1,0 +1,23 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Apinan Yogaratnam",
+	"description": "A project that teaches about backend dev",
+	"license": "MIT",
+	"version": "2.10.2",
+	"keywords": [
+		"freecodecamp",
+		"npm",
+		"self learner"
+	],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
