@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Apinan Yogaratnam",
 	"description": "A project that teaches about backend dev",
-    "license": "MIT",
+	"license": "MIT",
+	"version": "1.0.0",
 	"keywords": [
 		"freecodecamp",
 		"npm",
